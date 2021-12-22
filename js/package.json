@@ -1,10 +1,13 @@
 {
-  "name": "node_esm",
+  "name": "js",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "test": "pnpm exec vitest"
   },
   "author": "jungai",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^3.1.30"
+  }
 }
