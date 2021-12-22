@@ -1,7 +1,6 @@
 {
   "name": "try-vitest",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "vitest"
@@ -10,8 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/jungai/try-vitest.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "jungai",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jungai/try-vitest/issues"
