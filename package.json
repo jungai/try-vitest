@@ -1,0 +1,24 @@
+{
+  "name": "try-vitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jungai/try-vitest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jungai/try-vitest/issues"
+  },
+  "homepage": "https://github.com/jungai/try-vitest#readme",
+  "devDependencies": {
+    "vite": "^2.7.6",
+    "vitest": "^0.0.107"
+  }
+}

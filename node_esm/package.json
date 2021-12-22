@@ -1,0 +1,10 @@
+{
+  "name": "node_esm",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "pnpm exec vitest"
+  },
+  "author": "jungai",
+  "license": "ISC"
+}
