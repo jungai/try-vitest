@@ -8,6 +8,7 @@ export default defineConfig({
     global: true,
     environment: "node",
     include: ["**/*.spec.ts"],
+    setupFiles: ["node_modules/dotenv/config"],
     clearMocks: true,
   },
 });
