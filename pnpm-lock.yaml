@@ -10,7 +10,7 @@ importers:
       vite: 2.7.10
       vitest: 0.0.126
 
-  js:
+  test/js:
     specifiers:
       nanoid: ^3.1.30
     dependencies:
