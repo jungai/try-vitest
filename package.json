@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/jungai/try-vitest#readme",
   "devDependencies": {
-    "vite": "^2.7.10",
-    "vitest": "^0.0.140"
+    "vite": "^2.7.13",
+    "vitest": "^0.2.3"
   }
 }
